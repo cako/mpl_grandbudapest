@@ -1,0 +1,45 @@
+lines.linewidth: 2
+lines.markeredgewidth: 0
+
+patch.linewidth: 0.5
+patch.facecolor: 348ABD  # blue
+patch.edgecolor: none
+patch.antialiased: True
+
+font.sans-serif: FF DIN, Abel, sans-serif
+font.size: 14.0
+
+axes.facecolor: ffe5f3
+axes.edgecolor: fef5fa
+axes.linewidth: 1
+axes.grid: True
+axes.titlesize: x-large
+axes.labelsize: large
+axes.labelcolor: 555555
+axes.axisbelow: True  # grid/ticks are below elements (e.g., lines, text)
+
+axes.prop_cycle: cycler('color', ['e5000c', '7487B8', '73347F', '595959', 'DBD58F', '548583', 'E17698'])
+                   # E24A33 : red
+                   # 348ABD : blue
+                   # 988ED5 : purple
+                   # 777777 : gray
+                   # FBC15E : yellow
+                   # 8EBA42 : green
+                   # FFB5B8 : pink
+
+xtick.color: 555555
+xtick.direction: out
+
+ytick.color: 555555
+ytick.direction: out
+
+grid.color: D1D9FF
+grid.linestyle: -    # solid line
+
+figure.facecolor: white
+figure.edgecolor: 0.50
+figure.figsize: 12, 12
+
+# Fix export bug
+pdf.fonttype: 42
+ps.fonttype: 42
