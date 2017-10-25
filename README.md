@@ -1,5 +1,5 @@
 # mpl_grandbudapest
-Matplotlib mpl style inspired by The Grand Budapest Hotel
+Matplotlib mpl style inspired by The Grand Budapest Hotel film by Wes Anderson
 
 ## Install
 Copy the `grandbudapest.mplstyle` file to the `stylelib` under your Matplotlib configure directory. If none of this makes sense but you're on Linux, create `~/.config/matplotlib/stylelib` and place the file in there. More information on installing and using style files can be found [here](https://matplotlib.org/users/style_sheets.html).
